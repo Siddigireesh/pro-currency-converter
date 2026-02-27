@@ -1,6 +1,8 @@
 🎮 Demo Features
 �Live Rates from multiple providers
+
 �Swap Currencies (↔ button)
+
 �Auto-convert on input change
 �Conversion History (click to reload)
 �Offline Support with cached rates
